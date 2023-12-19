@@ -1,6 +1,6 @@
 # Amazon Web Services
 
-Author - Mahesh
+Author - Mahesh B. Raut
 
 AWS Certification Path for Machine Learning Engineer - Research, build, and design artificial intelligence (AI) systems to automate predictive models, and design machine learning systems, models, and schemes.
 
